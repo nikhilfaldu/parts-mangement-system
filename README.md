@@ -1,6 +1,9 @@
 # parts-mangement-system
 The Parts Management System Documentation is a comprehensive Software Requirements Specification (SRS) document for an eCommerce application focused on the manufacturing, sale, and purchase of parts. This document outlines the app's design, logic, and data structure, detailing the required data storage and management system.
 
+![srs_pr](https://github.com/user-attachments/assets/29280500-1dcf-4d88-9b17-1caa286cbefe)
+
+
 ![Desktop - 6](https://github.com/user-attachments/assets/96ce9acc-edcc-4cf6-97c7-096e1e16c231)
 
 
@@ -19,5 +22,7 @@ This document few outlines the app's logic, and data structure:
 • https://themeforest.net/category/
 
 •	https://limblecmms.com/blog/spare-parts-management/
+
+
 
 
