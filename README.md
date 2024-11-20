@@ -14,8 +14,10 @@ This document few outlines the app's logic, and data structure:
 
 ## References
 
-•	https://www.g3pconsulting.com/ 
-•	https://themeforest.net/category/
+•	https://www.g3pconsulting.com/
+
+• https://themeforest.net/category/
+
 •	https://limblecmms.com/blog/spare-parts-management/
 
 
